@@ -8,4 +8,7 @@
 	<a href="https://glorious-sweet-belt.glitch.me/">
 		<img src="https://img.shields.io/badge/CRUD%20API-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">
 	</a>
+  <a href="https://plant-aluminum-raccoon.glitch.me/">
+		<img src="https://img.shields.io/badge/TODO%20SQLZ-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">
+	</a>
 </div>
