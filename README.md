@@ -14,4 +14,7 @@
   <a href="https://transparent-peaceful-visage.glitch.me/">
 		<img src="https://img.shields.io/badge/library%20SQLZ-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">
 	</a>
+  <a href="https://tutorial-app-fe.vercel.app/">
+		<img src="https://img.shields.io/badge/tutorial%20app%20fs-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">
+	</a>
 </div>
