@@ -20,4 +20,10 @@
   <a href="https://terrific-tourmaline-manatee.glitch.me">
 		<img src="https://img.shields.io/badge/store%20api-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">
 	</a>
+  <a href="https://blog-api-ehkarabas.onrender.com/">
+		<img src="https://img.shields.io/badge/blog%20api-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">
+	</a>
+  <a href="https://personnel-api-ehkarabas.onrender.com/">
+		<img src="https://img.shields.io/badge/personnel%20api-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">
+	</a>
 </div>
